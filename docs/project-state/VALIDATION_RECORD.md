@@ -20,7 +20,7 @@ Environment
 Local / GitHub Actions
 
 Version/Commit
-Pending
+8804dad686b582b364df9fd9f154307e5b7f61d0
 
 Procedure
 1. Check that `docs/project-state/` and `docs/autonomy/` exist.
@@ -32,19 +32,20 @@ Expected Result
 All required files exist in their correct paths with the correct format, branch is correct.
 
 Actual Result
-Pending
+Files exist, schemas matched, branch is correct, and PR merged.
 
 Evidence
-Pending
+- PR #2 merged (commit 8804dad686b582b364df9fd9f154307e5b7f61d0)
+- Repository is clean
 
 Status
-IN PROGRESS
+PASS
 
 Failures
 None
 
 Follow-up
-Complete PR submission and wait for owner review.
+Close CP-P0-01.
 
 Reviewer
 Project Owner
