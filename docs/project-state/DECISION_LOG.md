@@ -46,3 +46,25 @@ Project Owner
 
 Evidence / References
 Initial conversation directives.
+
+---
+Decision ID
+DEC-002
+
+Date
+2026-09-15
+
+Question / Problem
+What is the finalized real-world domain/use case?
+
+Decision
+Proposed use-case defined in docs/architecture/product-use-case.md
+
+Reason
+Satisfies AI usefulness, tool usefulness, authorization relevance, and structured-data relevance.
+
+Status
+PENDING APPROVAL
+
+Approver
+Project Owner
