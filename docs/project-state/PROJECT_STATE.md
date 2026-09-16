@@ -40,7 +40,7 @@ Latest Validation:
 VR-001 (PASS)
 
 Repository State:
-Branch: chore/cp-p0-01-closure
+Branch: chore/cp-p0-01-closure-jules
 Clean working tree required for checkpoint completion.
 
 Known Defects:
