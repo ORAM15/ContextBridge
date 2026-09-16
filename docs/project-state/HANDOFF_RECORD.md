@@ -1,5 +1,5 @@
 Handoff ID
-HANDOFF-003
+HANDOFF-004
 
 Date / Time
 2026-09-05T07:44:56Z
@@ -8,20 +8,19 @@ Previous Agent
 Jules
 
 Current Phase
-P0
+P1
 
 Current Checkpoint
-NONE
+CP-P1-01
 
 Checkpoint Status
-READY
+ACCEPTANCE REVIEW
 
 Completed Work
-- Validated state of repository
-- Closed CP-P0-01 as PR #2 was merged successfully
+- Drafted proposed product use case in docs/decisions/CP-P1-01-use-case.md
 
 Active Work
-NONE
+- Awaiting owner approval of CP-P1-01
 
 Uncommitted Work
 None
@@ -33,16 +32,16 @@ Failed Attempts
 None
 
 Open Decisions
-None
+CP-P1-01 (Product Use Case)
 
 Required Approvals
-None
+CP-P1-01 (Product Use Case)
 
 Latest Validation
-VR-001 (PASS)
+N/A
 
 Repository State
-Branch: chore/cp-p0-01-closure
+Branch: decision/cp-p1-01-use-case
 
 Next Permitted Action
-- Prepare for the next phase according to the foundation documents
+- Await owner approval of CP-P1-01.
