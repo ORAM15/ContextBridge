@@ -48,3 +48,57 @@ Update checkpoint log to complete CP-P0-01.
 
 Reviewer
 Project Owner
+
+---
+
+Validation ID
+VR-002
+
+Date
+2026-09-22
+
+Checkpoint
+CP-P1-01
+
+Engineering Work Unit
+Product Use-Case Resolution
+
+Requirement(s)
+Trace selected use case against requirements (AI tool-use value, structured data, meaningful authorization, controlled data exposure, realistic implementation scope).
+
+Validation Type
+Manual Review
+
+Environment
+N/A
+
+Version/Commit
+Pending
+
+Procedure
+1. Check that a concrete use case was selected.
+2. Verify that it demonstrates AI tool use.
+3. Verify that it incorporates structured data.
+4. Verify that meaningful authorization exists.
+5. Verify that implementation is realistic and fits the product vision.
+
+Expected Result
+Use case satisfies all domain selection criteria.
+
+Actual Result
+"HR / Employee Onboarding System" fulfills all criteria as documented in DEC-002.
+
+Evidence
+DEC-002 documentation and justification.
+
+Status
+COMPLETED
+
+Failures
+None
+
+Follow-up
+Await Project Owner approval.
+
+Reviewer
+Project Owner (Pending Approval)
