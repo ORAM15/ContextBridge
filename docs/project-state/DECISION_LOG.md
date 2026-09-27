@@ -39,10 +39,59 @@ Security Impact
 N/A
 
 Status
-APPROVED
+PENDING
 
 Approver
 Project Owner
 
 Evidence / References
 Initial conversation directives.
+
+Decision ID
+DEC-002
+
+Date
+2026-09-27
+
+Question / Problem
+What is the final real-world domain/use case for ContextBridge?
+
+Context
+CP-P1-01 requires resolving the exact real-world integration use case to satisfy the product intent: genuine AI tool-use value, structured data relevance, permission relevance, and realistic implementation scope.
+
+Options Considered
+- HR / Employee Onboarding System
+- IT Service Desk
+
+Decision
+Select the "HR / Employee Onboarding System" domain.
+
+Reason
+It perfectly demonstrates meaningful structured data, authorization requirements, controlled data exposure, and AI tool-use value without unnecessary complexity.
+
+Trade-offs
+Requires designing realistic mock HR data structures.
+
+Consequences
+The data model and access controls will focus on employee profiles, onboarding tasks, and role-based data access.
+
+Requirements Affected
+All CP-P1-01 artifacts
+
+Architecture Affected
+N/A
+
+Technology Affected
+N/A
+
+Security Impact
+Requires strict RBAC for simulated HR data.
+
+Status
+PENDING
+
+Approver
+None
+
+Evidence / References
+None
