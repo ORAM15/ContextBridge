@@ -20,7 +20,7 @@ Environment
 Local / GitHub Actions
 
 Version/Commit
-Pending
+8804dad
 
 Procedure
 1. Check that `docs/project-state/` and `docs/autonomy/` exist.
@@ -39,12 +39,24 @@ Git history and PR #2 merge commit.
 
 Status
 SUCCESS
+All required files exist and PR #2 was merged.
+
+Evidence
+PR #2 merged (commit 8804dad). Directory docs/ correctly populated. Working tree is clean.
+All required files exist and the PR #2 was merged.
+
+Evidence
+PR #2 merged (commit 8804dad). Directory `docs/` correctly populated. Working tree is clean.
+
+Status
+COMPLETED
 
 Failures
 None
 
 Follow-up
 None
+Update checkpoint log to complete CP-P0-01.
 
 Reviewer
 Project Owner
