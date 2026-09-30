@@ -1,10 +1,8 @@
 Handoff ID
-HANDOFF-003
+HANDOFF-004
 
 Date / Time
-2026-09-10T07:55:14Z
-2026-09-09T08:03:23Z
-2026-09-07T07:50:37Z
+2026-09-30T08:03:27Z
 
 Previous Agent
 Jules
@@ -16,40 +14,36 @@ Current Checkpoint
 CP-P1-01
 
 Checkpoint Status
-READY
-CP-P1-01 — Product Use-Case Resolution
-
-Checkpoint Status
-NOT STARTED
+BLOCKED
 
 Completed Work
-- Verified PR #2 was merged
-- Completed CP-P0-01 documentation
+- Documented DEC-002: HR / Employee Onboarding System use case.
+- Executed VR-002 to trace use case against requirements.
 
 Active Work
-- Ready to begin P1
+- CP-P1-01 Product Use-Case Resolution
 
 Uncommitted Work
 None
 
 Blocked Work
-None
+- CP-P1-01 blocked pending mandatory human approval.
 
 Failed Attempts
 None
 
 Open Decisions
-None
+- DEC-002
 
 Required Approvals
-None
+- CP-P1-01 Use-Case Approval
 
 Latest Validation
-VR-001 (COMPLETED)
+VR-002 (COMPLETED)
 
 Repository State
-Branch: chore/cp-p0-01-closure
-Branch: complete-cp-p0-01
+Branch: decision/p1-use-case
+Clean working tree.
 
 Next Permitted Action
-- Start CP-P1-01
+- Obtain human approval for CP-P1-01.
