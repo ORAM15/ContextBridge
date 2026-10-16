@@ -52,3 +52,53 @@ Update checkpoint log to complete CP-P0-01.
 
 Reviewer
 Project Owner
+
+
+Validation ID
+VR-002
+
+Date
+2026-10-16
+
+Checkpoint
+CP-P1-01
+
+Engineering Work Unit
+Product Use-Case Resolution
+
+Requirement(s)
+Trace selected use case against requirements (genuine AI tool-use value, meaningful structured data, meaningful authorization).
+
+Validation Type
+Manual Review
+
+Environment
+N/A
+
+Version/Commit
+N/A
+
+Procedure
+1. Review the proposed domain 'HR / Employee Onboarding System' against criteria.
+2. Confirm expected artifacts are documented in DEC-002.
+
+Expected Result
+Domain meets all criteria and artifacts exist.
+
+Actual Result
+Domain meets criteria. Artifacts are documented in DEC-002.
+
+Evidence
+DEC-002 documents the HR/Onboarding use case, primary user, workflow, and tool-domain boundary.
+
+Status
+BLOCKED
+
+Failures
+None
+
+Follow-up
+Await Project Owner approval.
+
+Reviewer
+Project Owner
