@@ -46,3 +46,53 @@ Project Owner
 
 Evidence / References
 Initial conversation directives.
+
+Decision ID
+DEC-002
+
+Date
+2026-10-17T08:05:03Z
+
+Question / Problem
+What is the specific real-world domain/use case for ContextBridge?
+
+Context
+ContextBridge needs a concrete use case demonstrating genuine AI tool-use value, structured data, meaningful authorization, controlled data exposure, and realistic implementation scope.
+
+Options Considered
+- HR / Employee Onboarding System
+- Customer Support Ticketing
+- E-commerce Order Management
+
+Decision
+HR / Employee Onboarding System.
+
+Reason
+It fulfills all acceptance criteria: requires structured data (employee profiles, roles), meaningful authorization (manager vs. employee access), and controlled exposure (PII redaction).
+
+Trade-offs
+Requires realistic mock HR data.
+
+Consequences
+Subsequent checkpoints will implement tools and validation logic specific to HR onboarding.
+
+Requirements Affected
+All Domain-Specific Requirements
+
+Architecture Affected
+Tool Registry, Schema Validation
+
+Technology Affected
+N/A
+
+Security Impact
+Establishes RBAC and Data Redaction priorities.
+
+Status
+PENDING
+
+Approver
+Project Owner
+
+Evidence / Reference
+Foundation documents CP-P1-01.
