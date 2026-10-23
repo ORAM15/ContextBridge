@@ -46,3 +46,52 @@ Project Owner
 
 Evidence / References
 Initial conversation directives.
+
+
+Decision ID
+DEC-002
+
+Date
+2026-10-23
+
+Question / Problem
+What is the final real-world domain/use case for ContextBridge?
+
+Context
+CP-P1-01 requires resolving the final real-world domain/use case without changing the approved product vision.
+
+Options Considered
+- HR / Employee Onboarding System
+
+Decision
+Select the "HR / Employee Onboarding System" as the final real-world domain/use case.
+
+Reason
+It clearly demonstrates AI tool-use value, structured data (employee records), and meaningful authorization controls (access permissions), fitting the ContextBridge architecture.
+
+Trade-offs
+None significant; highly aligned with enterprise system integration patterns.
+
+Consequences
+The implementation stack and MCP client/transport will be designed to support this specific onboarding use case.
+
+Requirements Affected
+Domain scope requirements
+
+Architecture Affected
+N/A
+
+Technology Affected
+N/A
+
+Security Impact
+Requires strict authorization enforcement for HR data.
+
+Status
+PENDING APPROVAL
+
+Approver
+Project Owner
+
+Evidence / Reference
+CP-P1-01 Product Use-Case Resolution.
