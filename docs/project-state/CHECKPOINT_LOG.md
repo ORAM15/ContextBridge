@@ -44,6 +44,9 @@ Known Failures
 None
 
 Completion Evidence
+PR #2 merged (commit 8804dad)
+PR #2 merged (commit 8804dad), validation VR-001 complete.
+
 PR #2 merged (commit 8804dad686b582b364df9fd9f154307e5b7f61d0)
 
 ---
@@ -58,6 +61,19 @@ Name
 Product Use-Case Resolution
 
 Status
+BLOCKED
+
+Prerequisites
+P0 complete.
+
+Started
+2026-10-23T07:39:14Z
+
+Completed
+N/A
+
+Branch
+feature/cp-p1-01
 PENDING_APPROVAL
 
 Prerequisites
@@ -76,6 +92,19 @@ Issue
 N/A
 
 PR
+N/A
+
+Commits
+N/A
+
+Validation Records
+VR-002
+
+Acceptance Result
+PENDING
+
+Human Approval
+PENDING
 Pending
 
 Commits
@@ -94,4 +123,5 @@ Known Failures
 None
 
 Completion Evidence
+N/A
 `docs/decisions/CP-P1-01-USE-CASE.md` created
