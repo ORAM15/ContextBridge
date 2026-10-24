@@ -58,7 +58,7 @@ Name
 Product Use-Case Resolution
 
 Status
-PENDING_APPROVAL
+BLOCKED
 
 Prerequisites
 P0 complete
